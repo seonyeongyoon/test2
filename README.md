@@ -1,4 +1,6 @@
-# test2
+# 제목: 2024 AIoT 국제전시회
+## 참가일시, 장소: 2024-10-31, 코엑스
+
 ![image1](https://github.com/user-attachments/assets/7497f317-ca0c-4b59-82a9-c8b8de6add0f)
 ![image2](https://github.com/user-attachments/assets/791a8ba1-bc6c-4757-a453-0788d3443891)
 ![image3](https://github.com/user-attachments/assets/099a4e86-32ba-4507-a596-f43d32bcb0a2)
