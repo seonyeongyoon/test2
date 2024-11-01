@@ -35,7 +35,7 @@ AIoT의 사전적 의미는 알고 있었지만, 실제 활용 사례는 잘 접
 ![image6](https://github.com/user-attachments/assets/0bdbf4c3-0abd-4a90-9a24-01861853ee87)
 ![image7](https://github.com/user-attachments/assets/9474f16b-5532-429e-be14-cfda7e8e9c4a)
 * 주력 상품: 스마트 약통, 스마트 스위치
-* 기능 및 성능:
+* 기능 및 성능:   
 ①	섭취 시간 알림   
 ②	적외선 IR 센싱   
 ③	중복 섭취 방지 알림   
