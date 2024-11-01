@@ -4,15 +4,12 @@
 ## 작성일시: 2024-10-31
 ### 작성자: 미래기술팀, 윤선영, 사원
 
-![image1](https://github.com/user-attachments/assets/7497f317-ca0c-4b59-82a9-c8b8de6add0f)
-AIoT의 사전적 의미는 알고 있었지만, 실제 활용 사례는 잘 접해보지 못했는데, 2024 AIoT 국제전시회를 참관하고 나서 AIoT 기술이 생각보다 더 다양한 분야에 적용되고 있고, 앞으로 적용될 수 있는 분야가 더 무궁무진하게 남아있다는 생각이 들었습니다.
 
 ## 주요 요지 및 내용
-![image2](https://github.com/user-attachments/assets/791a8ba1-bc6c-4757-a453-0788d3443891)
-![image3](https://github.com/user-attachments/assets/099a4e86-32ba-4507-a596-f43d32bcb0a2)
-
 
 ### 1. ㈜케이알엠   
+![image2](https://github.com/user-attachments/assets/791a8ba1-bc6c-4757-a453-0788d3443891)
+![image3](https://github.com/user-attachments/assets/099a4e86-32ba-4507-a596-f43d32bcb0a2)
 * 주력 상품: GHOST VISION 60 (4족 보행 로봇)
 * 기능 및 성능:   
 ①	고대역폭 360 감지   
@@ -81,5 +78,10 @@ ELICIT(엘리싯)은 엘리엇시스템이 개발한 산업 IoT를 위한 무선
 4.
 5. 
 
+* * *
+
+### 정리
+![image1](https://github.com/user-attachments/assets/7497f317-ca0c-4b59-82a9-c8b8de6add0f)
+AIoT의 사전적 의미는 알고 있었지만, 실제 활용 사례는 잘 접해보지 못했는데, 2024 AIoT 국제전시회를 참관하고 나서 AIoT 기술이 생각보다 더 다양한 분야에 적용되고 있고, 앞으로 적용될 수 있는 분야가 더 무궁무진하게 남아있다는 생각이 들었습니다.
 
 
