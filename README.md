@@ -56,7 +56,7 @@ AIoT의 사전적 의미는 알고 있었지만, 실제 활용 사례는 잘 접
 ![image9](https://github.com/user-attachments/assets/1c9722c1-f431-4717-b91c-95b54f6ce69f)
 ![image10](https://github.com/user-attachments/assets/0a828662-6935-4790-ad02-23f4b703c68e)
 * 주력 상품: ELICIT(엘리싯)
-* 기능 및 성능:
+* 기능 및 성능:   
 ①	전송확인, 자동 재전송, 암호화 지원   
 ②	뛰어난 확장성 (최대 4단계의 트리구조 네트워크 구성)   
 ③	다양한 AT 명령어 지원   
